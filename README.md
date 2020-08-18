@@ -1,7 +1,7 @@
 # Lucas Wong
 ## github-dhs-computing
 
-Hello *World*, I am **Lucas Wong** from [Dunman High School].(https://dunmanhigh.moe.edu.sg/)
+Hello *World*, I am **Lucas Wong** from [Dunman High School](https://dunmanhigh.moe.edu.sg/).
 
 My Hobbies
 * Sports
