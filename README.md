@@ -7,3 +7,7 @@ My Hobbies
 # Sports
 # Music
 # Eating
+
+My education
+1. Red Swastika School
+2. Dunman High School
