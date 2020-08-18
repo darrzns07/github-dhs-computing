@@ -4,9 +4,9 @@
 Hello *World*, I am **Lucas Wong** from Dunman High School.
 
 My Hobbies
-# Sports
-# Music
-# Eating
+* Sports
+* Music
+* Eating
 
 My education
 1. Red Swastika School
